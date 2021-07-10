@@ -18,7 +18,7 @@ As love straight C and I dislike C++ 😄
 
 ### Most used OS (approximate %)
 - Windows : 90%
-- Linux: 10%
+- Linux : 10%
 
 Even though I think Linux is the superior OS, I grew up on Windows so here I be 😏
 
