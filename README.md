@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Coding Proficiencies
+- C (4/5)
+- C++ (1/5)
+- x86 ASM (1/5)
+- Python (1/5)
+- HTML/CSS/JS (1/5)
+
+As love straight C and I dislike C++ 🤔
+
 <!--
 **Volkanite/Volkanite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
