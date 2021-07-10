@@ -7,7 +7,7 @@
 - Python : 1
 - HTML/CSS/JS : 1
 
-As love straight C and I dislike C++ 😄
+I love straight C and I dislike C++ 😄
 
 ### Concept Proficiencies (scale 1-5)
 - Windows (Win32) : 4
