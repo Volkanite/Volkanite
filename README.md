@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-### Language Proficiencies
-- C (4/5)
-- C++ (1/5)
-- x86 ASM (1/5)
-- Python (1/5)
-- HTML/CSS/JS (1/5)
+### Language Proficiencies (scale 1-5)
+- C : 4
+- C++ : 1
+- x86 ASM : 1
+- Python : 1
+- HTML/CSS/JS : 1
 
 As love straight C and I dislike C++ 😄
 
@@ -15,6 +15,12 @@ As love straight C and I dislike C++ 😄
 - Windows (D3D): 1
 - Game Hacking : 2
 - Web Programming : 1
+
+### Most used OS (approximate %)
+- Windows : 90%
+- Linux: 10%
+
+Even though I think Linux is the superior OS, I grew up on Windows so here I be 😏
 
 <!--
 **Volkanite/Volkanite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
