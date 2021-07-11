@@ -14,7 +14,6 @@ I love straight C and I dislike C++ 😄
 - Windows (Win32) : 4
 - Windows (Kernel) : 1
 - Windows (D3D): 1
-- Game Hacking : 2
 - Web Programming : 1
 
 ### Most used OS (approximate %)
