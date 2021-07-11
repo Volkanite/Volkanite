@@ -6,6 +6,7 @@
 - x86 ASM : 1
 - Python : 1
 - HTML/CSS/JS : 1
+- GitHub Markdown : 2
 
 I love straight C and I dislike C++ 😄
 
