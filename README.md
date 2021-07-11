@@ -5,6 +5,7 @@
 - C++ : 1
 - x86 ASM : 1
 - Python : 1
+- Visual Basic : 1
 - HTML/CSS/JS : 1
 - GitHub MD : 2
 
