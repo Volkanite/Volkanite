@@ -7,6 +7,7 @@
 - Python : 1
 - Visual Basic : 1
 - HTML/CSS/JS : 1
+- R : 1
 - GitHub MD : 2
 
 I love straight C and I dislike C++ 😄
