@@ -2,10 +2,10 @@
 
 ### Language Proficiencies ([scale](https://github.com/Volkanite/Volkanite/blob/main/proficiencies.md) 1-5)
 - C : 4
-- C++ : 1
+- C++ : 2
 - x86 ASM : 1
-- Python : 1
-- Visual Basic : 1
+- Python : 2
+- Visual Basic : 2
 - C# : 1
 - HTML/CSS/JS : 1
 - R : 1
