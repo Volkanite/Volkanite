@@ -12,7 +12,7 @@
 
 I love pure C and I dislike C++ 😄
 
-### Concept Proficiencies (scale](https://github.com/Volkanite/Volkanite/blob/main/proficiencies.md) 1-5)
+### Concept Proficiencies ([scale](https://github.com/Volkanite/Volkanite/blob/main/proficiencies.md) 1-5)
 - Windows (Win32) : 4
 - Windows (Kernel) : 1
 - Windows (D3D): 1
