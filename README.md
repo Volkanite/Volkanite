@@ -10,7 +10,7 @@
 - R : 1
 - GitHub MD : 2
 
-I love straight C and I dislike C++ 😄
+I love pure C and I dislike C++ 😄
 
 ### Concept Proficiencies (scale 1-5)
 - Windows (Win32) : 4
