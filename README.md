@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Language Proficiencies (scale 1-5)
+### Language Proficiencies ([scale](https://github.com/Volkanite/Volkanite/blob/main/proficiencies.md) 1-5)
 - C : 4
 - C++ : 1
 - x86 ASM : 1
@@ -12,7 +12,7 @@
 
 I love pure C and I dislike C++ 😄
 
-### Concept Proficiencies (scale 1-5)
+### Concept Proficiencies (scale](https://github.com/Volkanite/Volkanite/blob/main/proficiencies.md) 1-5)
 - Windows (Win32) : 4
 - Windows (Kernel) : 1
 - Windows (D3D): 1
