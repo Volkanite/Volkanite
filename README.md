@@ -6,6 +6,7 @@
 - x86 ASM : 1
 - Python : 1
 - Visual Basic : 1
+- C# : 1
 - HTML/CSS/JS : 1
 - R : 1
 - GitHub MD : 2
