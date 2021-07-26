@@ -7,7 +7,7 @@
 - Python : 2
 - Visual Basic : 2
 - C# : 1
-- HTML/CSS/JS : 1
+- HTML/CSS/JS : 2
 - R : 1
 - GitHub MD : 2
 
