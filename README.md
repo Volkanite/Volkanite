@@ -11,8 +11,6 @@
 - R : 1
 - GitHub MD : 2
 
-I love pure C and I dislike C++ 😄
-
 ### Concept Proficiencies ([scale](https://github.com/Volkanite/Volkanite/blob/main/proficiencies.md) 1-5)
 - Windows (Win32) : 4
 - Windows (Kernel) : 1
