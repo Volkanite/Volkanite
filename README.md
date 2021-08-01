@@ -17,12 +17,6 @@
 - Windows (D3D): 1
 - Web Programming : 1
 
-### Most used OS (approximate %)
-- Windows : 90%
-- Linux : 10%
-
-Even though I think Linux is the superior OS, I grew up on Windows so here I be 😏
-
 <!--
 **Volkanite/Volkanite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
