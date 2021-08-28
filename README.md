@@ -4,7 +4,7 @@
 - C : 4
 - C++ : 2
 - x86 ASM : 1
-- Python : 2
+- Python : 3
 - Visual Basic : 2
 - C# : 1
 - HTML/CSS/JS : 2
