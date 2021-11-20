@@ -10,6 +10,7 @@
 - HTML/CSS/JS : 2
 - R : 1
 - GitHub MD : 2
+- Terraform : 1
 
 ### Concept Proficiencies ([scale](https://github.com/Volkanite/Volkanite/blob/main/proficiencies.md) 1-5)
 - Windows (Win32) : 4
