@@ -8,6 +8,7 @@
 - Visual Basic : 2
 - C# : 1
 - HTML/CSS/JS : 2
+- Pascal : 1
 - R : 1
 - GitHub MD : 2
 - Terraform : 1
