@@ -18,6 +18,7 @@
 - Windows (Win32) : 4
 - Windows (Kernel) : 1
 - Windows (D3D): 1
+- Linux: 1
 - Web Programming : 1
 
 <!--
